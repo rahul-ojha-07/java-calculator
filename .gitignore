@@ -30,3 +30,7 @@ out/
 # Maven
 target/
 
+.project
+.classpath
+.bin
+
